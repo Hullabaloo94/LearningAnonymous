@@ -1,0 +1,11 @@
+C:\Users\Jason\source\repos\LearningAnonymous\LearningAnonymous\bin\Debug\netcoreapp3.0\LearningAnonymous.exe
+C:\Users\Jason\source\repos\LearningAnonymous\LearningAnonymous\bin\Debug\netcoreapp3.0\LearningAnonymous.deps.json
+C:\Users\Jason\source\repos\LearningAnonymous\LearningAnonymous\bin\Debug\netcoreapp3.0\LearningAnonymous.runtimeconfig.json
+C:\Users\Jason\source\repos\LearningAnonymous\LearningAnonymous\bin\Debug\netcoreapp3.0\LearningAnonymous.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\LearningAnonymous\LearningAnonymous\bin\Debug\netcoreapp3.0\LearningAnonymous.dll
+C:\Users\Jason\source\repos\LearningAnonymous\LearningAnonymous\bin\Debug\netcoreapp3.0\LearningAnonymous.pdb
+C:\Users\Jason\source\repos\LearningAnonymous\LearningAnonymous\obj\Debug\netcoreapp3.0\LearningAnonymous.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\LearningAnonymous\LearningAnonymous\obj\Debug\netcoreapp3.0\LearningAnonymous.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\LearningAnonymous\LearningAnonymous\obj\Debug\netcoreapp3.0\LearningAnonymous.AssemblyInfo.cs
+C:\Users\Jason\source\repos\LearningAnonymous\LearningAnonymous\obj\Debug\netcoreapp3.0\LearningAnonymous.dll
+C:\Users\Jason\source\repos\LearningAnonymous\LearningAnonymous\obj\Debug\netcoreapp3.0\LearningAnonymous.pdb
